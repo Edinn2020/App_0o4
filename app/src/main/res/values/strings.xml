@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">App_0o4</string>
+
+    <string name="textView_text_title" translatable="false">Mantenimiento: Contactos</string>
+    <string name="edittext_hint_code" translatable="false">Ingrese el Codigo</string>
+    <string name="text_hint_name" translatable="false">Ingrese el Nombre</string>
+    <string name="text_hint_lastname" translatable="false">Ingrese el Apellido</string>
+    <string name="text_hint_phone" translatable="false">Ingrese el Telefono</string>
+    <string name="text_hint_email" translatable="false">Ingrese el Correo</string>
+
+    <string name="button_text_insert" translatable="false">Insertar</string>
+    <string name="button_text_seacrh" translatable="false">Buscar</string>
+    <string name="button_text_delete" translatable="false">Eliminar</string>
+    <string name="button_text_update" translatable="false">Actualizar</string>
+    <string name="button_text_modify" translatable="false">Modificar</string>
+
+</resources>

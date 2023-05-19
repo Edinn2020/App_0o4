@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App_0o4</string>
+    <string name="button_inTextView">INSERTAR</string>
+    <string name="button_deTextView">DELETE</string>
+</resources>
